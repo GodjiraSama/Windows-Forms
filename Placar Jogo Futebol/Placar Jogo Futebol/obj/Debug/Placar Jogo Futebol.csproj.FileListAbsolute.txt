@@ -1,0 +1,10 @@
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Placar Jogo Futebol\Placar Jogo Futebol\bin\Debug\Placar Jogo Futebol.exe.config
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Placar Jogo Futebol\Placar Jogo Futebol\bin\Debug\Placar Jogo Futebol.exe
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Placar Jogo Futebol\Placar Jogo Futebol\bin\Debug\Placar Jogo Futebol.pdb
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Placar Jogo Futebol\Placar Jogo Futebol\obj\Debug\Placar Jogo Futebol.csproj.AssemblyReference.cache
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Placar Jogo Futebol\Placar Jogo Futebol\obj\Debug\Placar_Jogo_Futebol.Form1.resources
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Placar Jogo Futebol\Placar Jogo Futebol\obj\Debug\Placar_Jogo_Futebol.Properties.Resources.resources
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Placar Jogo Futebol\Placar Jogo Futebol\obj\Debug\Placar Jogo Futebol.csproj.GenerateResource.cache
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Placar Jogo Futebol\Placar Jogo Futebol\obj\Debug\Placar Jogo Futebol.csproj.CoreCompileInputs.cache
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Placar Jogo Futebol\Placar Jogo Futebol\obj\Debug\Placar Jogo Futebol.exe
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Placar Jogo Futebol\Placar Jogo Futebol\obj\Debug\Placar Jogo Futebol.pdb

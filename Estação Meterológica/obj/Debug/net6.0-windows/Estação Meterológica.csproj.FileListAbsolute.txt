@@ -1,0 +1,18 @@
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\obj\Debug\net6.0-windows\Estação Meterológica.csproj.AssemblyReference.cache
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\obj\Debug\net6.0-windows\Estação_Meterológica.TelaPrincipal.resources
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\obj\Debug\net6.0-windows\Estação_Meterológica.Properties.Resources.resources
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\obj\Debug\net6.0-windows\Estação Meterológica.csproj.GenerateResource.cache
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\obj\Debug\net6.0-windows\Estação Meterológica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\obj\Debug\net6.0-windows\Estação Meterológica.AssemblyInfoInputs.cache
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\obj\Debug\net6.0-windows\Estação Meterológica.AssemblyInfo.cs
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\obj\Debug\net6.0-windows\Estação Meterológica.csproj.CoreCompileInputs.cache
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\bin\Debug\net6.0-windows\Estação Meterológica.exe
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\bin\Debug\net6.0-windows\Estação Meterológica.deps.json
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\bin\Debug\net6.0-windows\Estação Meterológica.runtimeconfig.json
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\bin\Debug\net6.0-windows\Estação Meterológica.dll
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\bin\Debug\net6.0-windows\Estação Meterológica.pdb
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\obj\Debug\net6.0-windows\Estação Meterológica.dll
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\obj\Debug\net6.0-windows\refint\Estação Meterológica.dll
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\obj\Debug\net6.0-windows\Estação Meterológica.pdb
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\obj\Debug\net6.0-windows\Estação Meterológica.genruntimeconfig.cache
+C:\Users\danis\OneDrive\Ambiente de Trabalho\ATEC-GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\obj\Debug\net6.0-windows\ref\Estação Meterológica.dll

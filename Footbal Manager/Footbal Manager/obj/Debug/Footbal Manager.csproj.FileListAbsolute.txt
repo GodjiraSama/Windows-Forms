@@ -1,0 +1,5 @@
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Footbal Manager\Footbal Manager\obj\Debug\Footbal_Manager.form_login.resources
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Footbal Manager\Footbal Manager\obj\Debug\Footbal_Manager.tela_escolha_clube.resources
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Footbal Manager\Footbal Manager\obj\Debug\Footbal_Manager.escolha_ligas.resources
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Footbal Manager\Footbal Manager\obj\Debug\Footbal_Manager.equipas_laliga.resources
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Footbal Manager\Footbal Manager\obj\Debug\Footbal Manager.csproj.GenerateResource.cache

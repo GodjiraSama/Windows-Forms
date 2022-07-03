@@ -1,0 +1,10 @@
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\Estação Meterológica\bin\Debug\Estação Meterológica.exe.config
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\Estação Meterológica\bin\Debug\Estação Meterológica.exe
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\Estação Meterológica\bin\Debug\Estação Meterológica.pdb
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\Estação Meterológica\obj\Debug\Estação Meterológica.csproj.AssemblyReference.cache
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\Estação Meterológica\obj\Debug\Estação_Meterológica.TelaPrincipal.resources
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\Estação Meterológica\obj\Debug\Estação_Meterológica.Properties.Resources.resources
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\Estação Meterológica\obj\Debug\Estação Meterológica.csproj.GenerateResource.cache
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\Estação Meterológica\obj\Debug\Estação Meterológica.csproj.CoreCompileInputs.cache
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\Estação Meterológica\obj\Debug\Estação Meterológica.exe
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\Estação Meterológica\Estação Meterológica\obj\Debug\Estação Meterológica.pdb

@@ -1,0 +1,10 @@
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\5118_ficha1\5118_ficha1\bin\Debug\5118_ficha1.exe.config
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\5118_ficha1\5118_ficha1\bin\Debug\5118_ficha1.exe
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\5118_ficha1\5118_ficha1\bin\Debug\5118_ficha1.pdb
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\5118_ficha1\5118_ficha1\obj\Debug\5118_ficha1.csproj.AssemblyReference.cache
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\5118_ficha1\5118_ficha1\obj\Debug\_5118_ficha1.Properties.Resources.resources
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\5118_ficha1\5118_ficha1\obj\Debug\5118_ficha1.csproj.GenerateResource.cache
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\5118_ficha1\5118_ficha1\obj\Debug\5118_ficha1.csproj.CoreCompileInputs.cache
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\5118_ficha1\5118_ficha1\obj\Debug\5118_ficha1.exe
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\5118_ficha1\5118_ficha1\obj\Debug\5118_ficha1.pdb
+E:\Escola\GRSIP\Trabalhos\Programação\Windows Forms\5118_ficha1\5118_ficha1\obj\Debug\_5118_ficha1.Form1.resources
